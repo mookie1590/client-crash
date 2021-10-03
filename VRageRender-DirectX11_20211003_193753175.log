@@ -1,0 +1,1144 @@
+2021-10-03 19:37:53.175 - Thread:   1 ->  Log Started
+2021-10-03 19:37:53.175 - Thread:   1 ->  Timezone (local - UTC): -4h
+2021-10-03 19:37:53.176 - Thread:   1 ->  App Version: Version unknown
+2021-10-03 19:37:53.176 - Thread:   1 ->  VRage renderer started
+2021-10-03 19:37:53.264 - Thread:   1 ->  MyRenderSettings1 = {
+2021-10-03 19:37:53.265 - Thread:   1 ->     AntialiasingMode = FXAA
+2021-10-03 19:37:53.265 - Thread:   1 ->     ShadowQuality = MEDIUM
+2021-10-03 19:37:53.265 - Thread:   1 ->     ShadowGPUQuality = HIGH
+2021-10-03 19:37:53.265 - Thread:   1 ->     TextureQuality = HIGH
+2021-10-03 19:37:53.265 - Thread:   1 ->     VoxelTextureQuality = HIGH
+2021-10-03 19:37:53.265 - Thread:   1 ->     AnisotropicFiltering = ANISO_16
+2021-10-03 19:37:53.265 - Thread:   1 ->     HqDepth = True
+2021-10-03 19:37:53.265 - Thread:   1 ->     GrassDrawDistance = 4998
+2021-10-03 19:37:53.265 - Thread:   1 ->     GrassDensityFactor = 1.961523
+2021-10-03 19:37:53.265 - Thread:   1 ->     AmbientOcclusionEnabled = True
+2021-10-03 19:37:53.265 - Thread:   1 ->     ModelQuality = HIGH
+2021-10-03 19:37:53.265 - Thread:   1 ->     VoxelQuality = HIGH
+2021-10-03 19:37:53.265 - Thread:   1 ->     VoxelShaderQuality = HIGH
+2021-10-03 19:37:53.265 - Thread:   1 ->     AlphaMaskedShaderQuality = HIGH
+2021-10-03 19:37:53.265 - Thread:   1 ->     AtmosphereShaderQuality = HIGH
+2021-10-03 19:37:53.265 - Thread:   1 ->     DistanceFade = 1218
+2021-10-03 19:37:53.265 - Thread:   1 ->     ParticleQuality = HIGH
+2021-10-03 19:37:53.265 - Thread:   1 ->  }
+2021-10-03 19:37:53.758 - Thread:  25 ->  CreateDeviceInternal
+2021-10-03 19:37:53.976 - Thread:  25 ->  MyRenderDeviceSettings = {
+2021-10-03 19:37:53.976 - Thread:  25 ->     Adapter id = 0
+2021-10-03 19:37:53.976 - Thread:  25 ->     DXGIAdapter id = 0
+2021-10-03 19:37:53.976 - Thread:  25 ->     DXGIOutput id = 0
+2021-10-03 19:37:53.976 - Thread:  25 ->     Resolution = 2560 x 1440
+2021-10-03 19:37:53.976 - Thread:  25 ->     Window mode = FullscreenWindow
+2021-10-03 19:37:53.976 - Thread:  25 ->  }
+2021-10-03 19:37:53.976 - Thread:  25 ->  CreateDeviceInternal InitDebugOutput
+2021-10-03 19:37:53.976 - Thread:  25 ->  CreateDeviceInternal RC Dispose
+2021-10-03 19:37:53.976 - Thread:  25 ->  CreateDeviceInternal RC Create
+2021-10-03 19:37:53.977 - Thread:  25 ->  Device Context change
+2021-10-03 19:37:53.977 - Thread:  25 ->  CreateDeviceInternal RC Initialize
+2021-10-03 19:37:53.979 - Thread:  25 ->  CreateDeviceInternal m_initializedOnce (False)
+2021-10-03 19:37:53.979 - Thread:  25 ->  CreateDeviceInternal m_initialized (False)
+2021-10-03 19:37:54.591 - Thread:  25 ->  DestroyCascadeTextures
+2021-10-03 19:37:54.593 - Thread:  25 ->  InitCascadeTextures: 0
+2021-10-03 19:37:54.635 - Thread:  25 ->  Mesh asset Cone.mwm has inconsistent vertex streams
+2021-10-03 19:37:54.636 - Thread:  25 ->     Normals length: 0 expected length: 25
+2021-10-03 19:37:54.636 - Thread:  25 ->     Texcoords length: 0 expected length: 25
+2021-10-03 19:37:54.636 - Thread:  25 ->     Tangents length: 0 expected length: 25
+2021-10-03 19:37:54.636 - Thread:  25 ->     Bitangents length: 0 expected length: 25
+2021-10-03 19:37:54.639 - Thread:  25 ->  Mesh asset Models/Debug/Cone.mwm has no material in part 0
+2021-10-03 19:37:55.452 - Thread:  25 ->  Mesh asset Sphere.mwm has inconsistent vertex streams
+2021-10-03 19:37:55.453 - Thread:  25 ->     Normals length: 0 expected length: 992
+2021-10-03 19:37:55.453 - Thread:  25 ->     Texcoords length: 0 expected length: 992
+2021-10-03 19:37:55.453 - Thread:  25 ->     Tangents length: 0 expected length: 992
+2021-10-03 19:37:55.453 - Thread:  25 ->     Bitangents length: 0 expected length: 992
+2021-10-03 19:37:55.453 - Thread:  25 ->  Mesh asset Models/Debug/Sphere.mwm has no material in part 0
+2021-10-03 19:37:55.609 - Thread:  25 ->  CreateDeviceInteral Apply Settings
+2021-10-03 19:37:55.610 - Thread:  25 ->  ApplySettings
+2021-10-03 19:37:55.610 - Thread:  25 ->     MyRenderDeviceSettings = {
+2021-10-03 19:37:55.611 - Thread:  25 ->        Adapter id = 0
+2021-10-03 19:37:55.611 - Thread:  25 ->        DXGIAdapter id = 0
+2021-10-03 19:37:55.611 - Thread:  25 ->        DXGIOutput id = 0
+2021-10-03 19:37:55.611 - Thread:  25 ->        Resolution = 2560 x 1440
+2021-10-03 19:37:55.611 - Thread:  25 ->        Window mode = FullscreenWindow
+2021-10-03 19:37:55.611 - Thread:  25 ->     }
+2021-10-03 19:37:55.625 - Thread:  25 ->  CreateDeviceInteral done (MyRenderDeviceSettings: {
+AdapterOrdinal: 0
+NewAdapterOrdinal: 0
+WindowMode: FullscreenWindow
+BackBufferWidth: 2560
+BackBufferHeight: 1440
+RefreshRate: 143998
+VSync: 0
+DebugDrawOnly: False
+UseStereoRendering: False
+SettingsMandatory: False
+InitParallel: False
+})
+2021-10-03 19:37:55.625 - Thread:  25 ->  CreateDevice: deviceCreated = True
+2021-10-03 19:37:57.721 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:37:57.722 - Thread:   1 ->     Font filename: Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:37:57.738 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:37:57.738 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:37:57.738 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:37:57.738 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:37:57.738 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:37:57.739 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:37:57.739 - Thread:   1 ->     Font filename: Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:37:57.741 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:37:57.741 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:37:57.741 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:37:57.741 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:37:57.741 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:37:57.741 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:37:57.742 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:37:57.744 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:37:57.744 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:37:57.744 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:37:57.744 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:37:57.744 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:37:57.744 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:37:57.744 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:37:57.746 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:37:57.746 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:37:57.746 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:37:57.746 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:37:57.746 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:37:57.746 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:37:57.746 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:37:57.748 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:37:57.748 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:37:57.748 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:37:57.748 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:37:57.748 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:37:57.748 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:37:57.748 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:37:57.750 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:37:57.750 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:37:57.750 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:37:57.750 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:37:57.750 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:37:57.750 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:37:57.750 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:37:57.752 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:37:57.752 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:37:57.752 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:37:57.752 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:37:57.752 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:37:57.752 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:37:57.753 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:37:57.756 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:37:57.756 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:37:57.756 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:37:57.756 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:37:57.756 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:37:57.756 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:37:57.756 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:37:57.758 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:37:57.758 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:37:57.758 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:37:57.758 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:37:57.758 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:37:57.758 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:37:57.758 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:37:57.760 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:37:57.760 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:37:57.760 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:37:57.760 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:37:57.760 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:37:57.760 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:37:57.760 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:37:57.762 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:37:57.762 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:37:57.762 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:37:57.762 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:37:57.762 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:37:57.762 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:37:57.762 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:37:57.764 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:37:57.764 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:37:57.764 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:37:57.764 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:37:57.764 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:37:57.764 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:37:57.765 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:37:57.766 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:37:57.766 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:37:57.766 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:37:57.766 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:37:57.766 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:37:57.766 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:37:57.767 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:37:57.768 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:37:57.768 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:37:57.768 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:37:57.768 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:37:57.768 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:37:57.768 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:37:57.769 - Thread:   1 ->     Font filename: Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:37:57.771 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:37:57.771 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:37:57.771 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:37:57.771 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:37:57.771 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:37:57.771 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:37:57.771 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:37:57.774 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:37:57.774 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:37:57.774 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:37:57.774 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:37:57.774 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:37:57.774 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:37:57.774 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:37:57.776 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:37:57.776 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:37:57.776 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:37:57.776 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:37:57.776 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:37:57.776 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:37:57.776 - Thread:   1 ->     Font filename: Fonts\monospace\FontDataPA.xml
+2021-10-03 19:37:57.781 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\monospace\FontDataPA.xml
+2021-10-03 19:37:57.781 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:37:57.781 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:37:57.781 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:37:57.781 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:37:58.360 - Thread:   1 ->  MyGuiManager2.LoadContent() - START
+2021-10-03 19:37:58.372 - Thread:   1 ->     MyFont.Ctor - START
+2021-10-03 19:37:58.372 - Thread:   1 ->        Font filename: Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:37:58.374 - Thread:   1 ->        FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:37:58.374 - Thread:   1 ->        LineHeight: 37
+2021-10-03 19:37:58.374 - Thread:   1 ->        Baseline: 30
+2021-10-03 19:37:58.374 - Thread:   1 ->        KernEnabled: True
+2021-10-03 19:37:58.374 - Thread:   1 ->     MyFont.Ctor - END
+2021-10-03 19:37:58.375 - Thread:   1 ->     MyFont.Ctor - START
+2021-10-03 19:37:58.375 - Thread:   1 ->        Font filename: Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:37:58.381 - Thread:   1 ->        FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:37:58.381 - Thread:   1 ->        LineHeight: 37
+2021-10-03 19:37:58.381 - Thread:   1 ->        Baseline: 30
+2021-10-03 19:37:58.381 - Thread:   1 ->        KernEnabled: True
+2021-10-03 19:37:58.381 - Thread:   1 ->     MyFont.Ctor - END
+2021-10-03 19:37:58.381 - Thread:   1 ->     MyFont.Ctor - START
+2021-10-03 19:37:58.382 - Thread:   1 ->        Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:37:58.384 - Thread:   1 ->        FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:37:58.384 - Thread:   1 ->        LineHeight: 37
+2021-10-03 19:37:58.384 - Thread:   1 ->        Baseline: 30
+2021-10-03 19:37:58.384 - Thread:   1 ->        KernEnabled: True
+2021-10-03 19:37:58.384 - Thread:   1 ->     MyFont.Ctor - END
+2021-10-03 19:37:58.384 - Thread:   1 ->     MyFont.Ctor - START
+2021-10-03 19:37:58.384 - Thread:   1 ->        Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:37:58.386 - Thread:   1 ->        FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:37:58.386 - Thread:   1 ->        LineHeight: 37
+2021-10-03 19:37:58.386 - Thread:   1 ->        Baseline: 30
+2021-10-03 19:37:58.386 - Thread:   1 ->        KernEnabled: True
+2021-10-03 19:37:58.386 - Thread:   1 ->     MyFont.Ctor - END
+2021-10-03 19:37:58.386 - Thread:   1 ->     MyFont.Ctor - START
+2021-10-03 19:37:58.386 - Thread:   1 ->        Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:37:58.388 - Thread:   1 ->        FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:37:58.388 - Thread:   1 ->        LineHeight: 37
+2021-10-03 19:37:58.388 - Thread:   1 ->        Baseline: 30
+2021-10-03 19:37:58.388 - Thread:   1 ->        KernEnabled: True
+2021-10-03 19:37:58.388 - Thread:   1 ->     MyFont.Ctor - END
+2021-10-03 19:37:58.388 - Thread:   1 ->     MyFont.Ctor - START
+2021-10-03 19:37:58.389 - Thread:   1 ->        Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:37:58.390 - Thread:   1 ->        FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:37:58.390 - Thread:   1 ->        LineHeight: 37
+2021-10-03 19:37:58.390 - Thread:   1 ->        Baseline: 30
+2021-10-03 19:37:58.390 - Thread:   1 ->        KernEnabled: True
+2021-10-03 19:37:58.390 - Thread:   1 ->     MyFont.Ctor - END
+2021-10-03 19:37:58.390 - Thread:   1 ->     MyFont.Ctor - START
+2021-10-03 19:37:58.391 - Thread:   1 ->        Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:37:58.395 - Thread:   1 ->        FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:37:58.395 - Thread:   1 ->        LineHeight: 37
+2021-10-03 19:37:58.395 - Thread:   1 ->        Baseline: 30
+2021-10-03 19:37:58.395 - Thread:   1 ->        KernEnabled: True
+2021-10-03 19:37:58.395 - Thread:   1 ->     MyFont.Ctor - END
+2021-10-03 19:37:58.395 - Thread:   1 ->     MyFont.Ctor - START
+2021-10-03 19:37:58.396 - Thread:   1 ->        Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:37:58.397 - Thread:   1 ->        FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:37:58.397 - Thread:   1 ->        LineHeight: 37
+2021-10-03 19:37:58.397 - Thread:   1 ->        Baseline: 30
+2021-10-03 19:37:58.397 - Thread:   1 ->        KernEnabled: True
+2021-10-03 19:37:58.397 - Thread:   1 ->     MyFont.Ctor - END
+2021-10-03 19:37:58.397 - Thread:   1 ->     MyFont.Ctor - START
+2021-10-03 19:37:58.398 - Thread:   1 ->        Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:37:58.400 - Thread:   1 ->        FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:37:58.400 - Thread:   1 ->        LineHeight: 37
+2021-10-03 19:37:58.400 - Thread:   1 ->        Baseline: 30
+2021-10-03 19:37:58.400 - Thread:   1 ->        KernEnabled: True
+2021-10-03 19:37:58.400 - Thread:   1 ->     MyFont.Ctor - END
+2021-10-03 19:37:58.400 - Thread:   1 ->     MyFont.Ctor - START
+2021-10-03 19:37:58.400 - Thread:   1 ->        Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:37:58.402 - Thread:   1 ->        FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:37:58.402 - Thread:   1 ->        LineHeight: 37
+2021-10-03 19:37:58.402 - Thread:   1 ->        Baseline: 30
+2021-10-03 19:37:58.402 - Thread:   1 ->        KernEnabled: True
+2021-10-03 19:37:58.402 - Thread:   1 ->     MyFont.Ctor - END
+2021-10-03 19:37:58.402 - Thread:   1 ->     MyFont.Ctor - START
+2021-10-03 19:37:58.402 - Thread:   1 ->        Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:37:58.404 - Thread:   1 ->        FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:37:58.404 - Thread:   1 ->        LineHeight: 37
+2021-10-03 19:37:58.404 - Thread:   1 ->        Baseline: 30
+2021-10-03 19:37:58.404 - Thread:   1 ->        KernEnabled: True
+2021-10-03 19:37:58.404 - Thread:   1 ->     MyFont.Ctor - END
+2021-10-03 19:37:58.404 - Thread:   1 ->     MyFont.Ctor - START
+2021-10-03 19:37:58.405 - Thread:   1 ->        Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:37:58.406 - Thread:   1 ->        FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:37:58.406 - Thread:   1 ->        LineHeight: 37
+2021-10-03 19:37:58.406 - Thread:   1 ->        Baseline: 30
+2021-10-03 19:37:58.406 - Thread:   1 ->        KernEnabled: True
+2021-10-03 19:37:58.406 - Thread:   1 ->     MyFont.Ctor - END
+2021-10-03 19:37:58.406 - Thread:   1 ->     MyFont.Ctor - START
+2021-10-03 19:37:58.407 - Thread:   1 ->        Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:37:58.409 - Thread:   1 ->        FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:37:58.409 - Thread:   1 ->        LineHeight: 37
+2021-10-03 19:37:58.409 - Thread:   1 ->        Baseline: 30
+2021-10-03 19:37:58.409 - Thread:   1 ->        KernEnabled: True
+2021-10-03 19:37:58.409 - Thread:   1 ->     MyFont.Ctor - END
+2021-10-03 19:37:58.409 - Thread:   1 ->     MyFont.Ctor - START
+2021-10-03 19:37:58.409 - Thread:   1 ->        Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:37:58.413 - Thread:   1 ->        FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:37:58.413 - Thread:   1 ->        LineHeight: 37
+2021-10-03 19:37:58.413 - Thread:   1 ->        Baseline: 30
+2021-10-03 19:37:58.413 - Thread:   1 ->        KernEnabled: True
+2021-10-03 19:37:58.413 - Thread:   1 ->     MyFont.Ctor - END
+2021-10-03 19:37:58.413 - Thread:   1 ->     MyFont.Ctor - START
+2021-10-03 19:37:58.414 - Thread:   1 ->        Font filename: Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:37:58.416 - Thread:   1 ->        FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:37:58.416 - Thread:   1 ->        LineHeight: 37
+2021-10-03 19:37:58.416 - Thread:   1 ->        Baseline: 30
+2021-10-03 19:37:58.416 - Thread:   1 ->        KernEnabled: True
+2021-10-03 19:37:58.416 - Thread:   1 ->     MyFont.Ctor - END
+2021-10-03 19:37:58.416 - Thread:   1 ->     MyFont.Ctor - START
+2021-10-03 19:37:58.416 - Thread:   1 ->        Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:37:58.418 - Thread:   1 ->        FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:37:58.418 - Thread:   1 ->        LineHeight: 37
+2021-10-03 19:37:58.418 - Thread:   1 ->        Baseline: 30
+2021-10-03 19:37:58.418 - Thread:   1 ->        KernEnabled: True
+2021-10-03 19:37:58.418 - Thread:   1 ->     MyFont.Ctor - END
+2021-10-03 19:37:58.418 - Thread:   1 ->     MyFont.Ctor - START
+2021-10-03 19:37:58.419 - Thread:   1 ->        Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:37:58.421 - Thread:   1 ->        FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:37:58.421 - Thread:   1 ->        LineHeight: 37
+2021-10-03 19:37:58.421 - Thread:   1 ->        Baseline: 30
+2021-10-03 19:37:58.421 - Thread:   1 ->        KernEnabled: True
+2021-10-03 19:37:58.421 - Thread:   1 ->     MyFont.Ctor - END
+2021-10-03 19:37:58.421 - Thread:   1 ->     MyFont.Ctor - START
+2021-10-03 19:37:58.421 - Thread:   1 ->        Font filename: Fonts\monospace\FontDataPA.xml
+2021-10-03 19:37:58.427 - Thread:   1 ->        FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\monospace\FontDataPA.xml
+2021-10-03 19:37:58.427 - Thread:   1 ->        LineHeight: 37
+2021-10-03 19:37:58.427 - Thread:   1 ->        Baseline: 30
+2021-10-03 19:37:58.427 - Thread:   1 ->        KernEnabled: True
+2021-10-03 19:37:58.427 - Thread:   1 ->     MyFont.Ctor - END
+2021-10-03 19:37:58.446 - Thread:   1 ->  MyGuiManager2.LoadContent() - END
+2021-10-03 19:38:00.008 - Thread:   6 ->  MyFont.Ctor - START
+2021-10-03 19:38:00.008 - Thread:  11 ->  MyFont.Ctor - START
+2021-10-03 19:38:00.008 - Thread:   9 ->  MyFont.Ctor - START
+2021-10-03 19:38:00.008 - Thread:   7 ->  MyFont.Ctor - START
+2021-10-03 19:38:00.008 - Thread:  10 ->  MyFont.Ctor - START
+2021-10-03 19:38:00.011 - Thread:   6 ->     Font filename: Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:38:00.011 - Thread:  11 ->     Font filename: Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:38:00.011 - Thread:   9 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:38:00.011 - Thread:   7 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:38:00.011 - Thread:  10 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:38:00.031 - Thread:  11 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:38:00.031 - Thread:  11 ->     LineHeight: 37
+2021-10-03 19:38:00.032 - Thread:  11 ->     Baseline: 30
+2021-10-03 19:38:00.032 - Thread:  11 ->     KernEnabled: True
+2021-10-03 19:38:00.032 - Thread:  11 ->  MyFont.Ctor - END
+2021-10-03 19:38:00.032 - Thread:   6 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:38:00.032 - Thread:   6 ->     LineHeight: 37
+2021-10-03 19:38:00.032 - Thread:   6 ->     Baseline: 30
+2021-10-03 19:38:00.032 - Thread:   6 ->     KernEnabled: True
+2021-10-03 19:38:00.032 - Thread:   6 ->  MyFont.Ctor - END
+2021-10-03 19:38:00.032 - Thread:   7 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:38:00.032 - Thread:   7 ->     LineHeight: 37
+2021-10-03 19:38:00.032 - Thread:   7 ->     Baseline: 30
+2021-10-03 19:38:00.032 - Thread:   7 ->     KernEnabled: True
+2021-10-03 19:38:00.032 - Thread:   7 ->  MyFont.Ctor - END
+2021-10-03 19:38:00.032 - Thread:  10 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:38:00.032 - Thread:   9 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:38:00.032 - Thread:  10 ->     LineHeight: 37
+2021-10-03 19:38:00.032 - Thread:   9 ->     LineHeight: 37
+2021-10-03 19:38:00.032 - Thread:  10 ->     Baseline: 30
+2021-10-03 19:38:00.032 - Thread:   9 ->     Baseline: 30
+2021-10-03 19:38:00.032 - Thread:  10 ->     KernEnabled: True
+2021-10-03 19:38:00.032 - Thread:   9 ->     KernEnabled: True
+2021-10-03 19:38:00.032 - Thread:  10 ->  MyFont.Ctor - END
+2021-10-03 19:38:00.032 - Thread:   9 ->  MyFont.Ctor - END
+2021-10-03 19:38:00.033 - Thread:   8 ->  MyFont.Ctor - START
+2021-10-03 19:38:00.033 - Thread:   8 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:38:00.034 - Thread:  11 ->  MyFont.Ctor - START
+2021-10-03 19:38:00.034 - Thread:   9 ->  MyFont.Ctor - START
+2021-10-03 19:38:00.034 - Thread:   1 ->  MyVideoSettingsManager.OnVideoAdaptersResponse
+2021-10-03 19:38:00.034 - Thread:  10 ->  MyFont.Ctor - START
+2021-10-03 19:38:00.034 - Thread:  11 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:38:00.036 - Thread:   6 ->  MyFont.Ctor - START
+2021-10-03 19:38:00.036 - Thread:   7 ->  MyFont.Ctor - START
+2021-10-03 19:38:00.036 - Thread:   9 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:38:00.036 - Thread:   8 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:38:00.036 - Thread:   1 ->     Adapter DeviceName: 'NVIDIA GeForce RTX 2070 SUPER + DISPLAY2', Description: 'dev id: 7812, mem: 8400142336, shared mem: 17142474752, Luid: 68503, rev: 161, subsys id: 1073484888, vendor id: 4318, feature_level 11.1: True'
+2021-10-03 19:38:00.036 - Thread:  10 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:38:00.044 - Thread:   8 ->     LineHeight: 37
+2021-10-03 19:38:00.045 - Thread:  11 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:38:00.045 - Thread:   6 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:38:00.045 - Thread:   7 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:38:00.045 - Thread:   8 ->     Baseline: 30
+2021-10-03 19:38:00.045 - Thread:  11 ->     LineHeight: 37
+2021-10-03 19:38:00.045 - Thread:   8 ->     KernEnabled: True
+2021-10-03 19:38:00.045 - Thread:  11 ->     Baseline: 30
+2021-10-03 19:38:00.045 - Thread:  11 ->     KernEnabled: True
+2021-10-03 19:38:00.045 - Thread:  11 ->  MyFont.Ctor - END
+2021-10-03 19:38:00.045 - Thread:   8 ->  MyFont.Ctor - END
+2021-10-03 19:38:00.045 - Thread:  11 ->  MyFont.Ctor - START
+2021-10-03 19:38:00.045 - Thread:   8 ->  MyFont.Ctor - START
+2021-10-03 19:38:00.046 - Thread:   9 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:38:00.046 - Thread:  11 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:38:00.046 - Thread:  10 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:38:00.046 - Thread:   8 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:38:00.046 - Thread:   1 ->        640x480@60Hz
+2021-10-03 19:38:00.046 - Thread:   9 ->     LineHeight: 37
+2021-10-03 19:38:00.046 - Thread:  10 ->     LineHeight: 37
+2021-10-03 19:38:00.046 - Thread:   1 ->        640x480@99.946Hz
+2021-10-03 19:38:00.046 - Thread:   9 ->     Baseline: 30
+2021-10-03 19:38:00.046 - Thread:  10 ->     Baseline: 30
+2021-10-03 19:38:00.046 - Thread:   1 ->        640x480@99.946Hz
+2021-10-03 19:38:00.046 - Thread:   9 ->     KernEnabled: True
+2021-10-03 19:38:00.046 - Thread:  10 ->     KernEnabled: True
+2021-10-03 19:38:00.046 - Thread:   1 ->        640x480@119.998Hz
+2021-10-03 19:38:00.046 - Thread:   1 ->        640x480@119.998Hz
+2021-10-03 19:38:00.046 - Thread:   1 ->        640x480@143.998Hz
+2021-10-03 19:38:00.046 - Thread:   9 ->  MyFont.Ctor - END
+2021-10-03 19:38:00.046 - Thread:  10 ->  MyFont.Ctor - END
+2021-10-03 19:38:00.046 - Thread:   1 ->        640x480@143.998Hz
+2021-10-03 19:38:00.046 - Thread:  10 ->  MyFont.Ctor - START
+2021-10-03 19:38:00.046 - Thread:   9 ->  MyFont.Ctor - START
+2021-10-03 19:38:00.047 - Thread:   1 ->        720x480@60.317Hz
+2021-10-03 19:38:00.047 - Thread:   6 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:38:00.047 - Thread:   7 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:38:00.047 - Thread:  10 ->     Font filename: Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:38:00.047 - Thread:   1 ->        720x480@60.317Hz
+2021-10-03 19:38:00.047 - Thread:   9 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:38:00.048 - Thread:   6 ->     LineHeight: 37
+2021-10-03 19:38:00.048 - Thread:   7 ->     LineHeight: 37
+2021-10-03 19:38:00.048 - Thread:   1 ->        720x480@99.946Hz
+2021-10-03 19:38:00.048 - Thread:   6 ->     Baseline: 30
+2021-10-03 19:38:00.048 - Thread:   7 ->     Baseline: 30
+2021-10-03 19:38:00.048 - Thread:   1 ->        720x480@99.946Hz
+2021-10-03 19:38:00.048 - Thread:   6 ->     KernEnabled: True
+2021-10-03 19:38:00.048 - Thread:   7 ->     KernEnabled: True
+2021-10-03 19:38:00.048 - Thread:   1 ->        720x480@119.998Hz
+2021-10-03 19:38:00.048 - Thread:   1 ->        720x480@119.998Hz
+2021-10-03 19:38:00.048 - Thread:   1 ->        720x480@143.998Hz
+2021-10-03 19:38:00.048 - Thread:   6 ->  MyFont.Ctor - END
+2021-10-03 19:38:00.048 - Thread:   7 ->  MyFont.Ctor - END
+2021-10-03 19:38:00.048 - Thread:   1 ->        720x480@143.998Hz
+2021-10-03 19:38:00.048 - Thread:   6 ->  MyFont.Ctor - START
+2021-10-03 19:38:00.048 - Thread:   7 ->  MyFont.Ctor - START
+2021-10-03 19:38:00.048 - Thread:   1 ->        720x576@60.317Hz
+2021-10-03 19:38:00.049 - Thread:   1 ->        720x576@60.317Hz
+2021-10-03 19:38:00.049 - Thread:   6 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:38:00.049 - Thread:  11 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:38:00.049 - Thread:   8 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:38:00.049 - Thread:   7 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:38:00.049 - Thread:   1 ->        720x576@99.946Hz
+2021-10-03 19:38:00.049 - Thread:  11 ->     LineHeight: 37
+2021-10-03 19:38:00.049 - Thread:   8 ->     LineHeight: 37
+2021-10-03 19:38:00.049 - Thread:   1 ->        720x576@99.946Hz
+2021-10-03 19:38:00.049 - Thread:  11 ->     Baseline: 30
+2021-10-03 19:38:00.049 - Thread:   8 ->     Baseline: 30
+2021-10-03 19:38:00.049 - Thread:   1 ->        720x576@119.998Hz
+2021-10-03 19:38:00.049 - Thread:  11 ->     KernEnabled: True
+2021-10-03 19:38:00.049 - Thread:   8 ->     KernEnabled: True
+2021-10-03 19:38:00.055 - Thread:   1 ->        720x576@119.998Hz
+2021-10-03 19:38:00.055 - Thread:   1 ->        720x576@143.998Hz
+2021-10-03 19:38:00.055 - Thread:   1 ->        720x576@143.998Hz
+2021-10-03 19:38:00.055 - Thread:  11 ->  MyFont.Ctor - END
+2021-10-03 19:38:00.055 - Thread:   8 ->  MyFont.Ctor - END
+2021-10-03 19:38:00.055 - Thread:   1 ->        800x600@60.317Hz
+2021-10-03 19:38:00.055 - Thread:  11 ->  MyFont.Ctor - START
+2021-10-03 19:38:00.056 - Thread:   1 ->        800x600@99.946Hz
+2021-10-03 19:38:00.056 - Thread:  10 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:38:00.056 - Thread:  11 ->     Font filename: Fonts\monospace\FontDataPA.xml
+2021-10-03 19:38:00.056 - Thread:   1 ->        800x600@99.946Hz
+2021-10-03 19:38:00.056 - Thread:  10 ->     LineHeight: 37
+2021-10-03 19:38:00.056 - Thread:   1 ->        800x600@119.998Hz
+2021-10-03 19:38:00.056 - Thread:  10 ->     Baseline: 30
+2021-10-03 19:38:00.056 - Thread:   9 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:38:00.056 - Thread:   1 ->        800x600@119.998Hz
+2021-10-03 19:38:00.056 - Thread:  10 ->     KernEnabled: True
+2021-10-03 19:38:00.056 - Thread:   9 ->     LineHeight: 37
+2021-10-03 19:38:00.056 - Thread:   1 ->        800x600@143.998Hz
+2021-10-03 19:38:00.056 - Thread:   9 ->     Baseline: 30
+2021-10-03 19:38:00.056 - Thread:   1 ->        800x600@143.998Hz
+2021-10-03 19:38:00.056 - Thread:   9 ->     KernEnabled: True
+2021-10-03 19:38:00.056 - Thread:   1 ->        1024x768@60.004Hz
+2021-10-03 19:38:00.056 - Thread:  10 ->  MyFont.Ctor - END
+2021-10-03 19:38:00.056 - Thread:   1 ->        1024x768@99.946Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1024x768@99.946Hz
+2021-10-03 19:38:00.056 - Thread:   9 ->  MyFont.Ctor - END
+2021-10-03 19:38:00.056 - Thread:   1 ->        1024x768@119.998Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1024x768@119.998Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1024x768@143.998Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1024x768@143.998Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1152x864@23.971Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1152x864@23.971Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1152x864@59.951Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1152x864@59.951Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1152x864@84.983Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1152x864@84.983Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1152x864@99.946Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1152x864@99.946Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1152x864@119.998Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1152x864@119.998Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1152x864@143.998Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1152x864@143.998Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x720@23.971Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x720@23.971Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x720@59.951Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x720@59.951Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x720@84.983Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x720@84.983Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x720@99.946Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x720@99.946Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x720@119.998Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x720@119.998Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x720@143.998Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x720@143.998Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x768@23.971Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x768@23.971Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x768@59.951Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x768@59.951Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x768@84.983Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x768@84.983Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x768@99.946Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x768@99.946Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x768@119.998Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x768@119.998Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x768@143.998Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x768@143.998Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x800@23.971Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x800@23.971Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x800@59.951Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x800@59.951Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x800@84.983Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x800@84.983Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x800@99.946Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x800@99.946Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x800@119.998Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x800@119.998Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x800@143.998Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x800@143.998Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x960@23.971Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x960@23.971Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x960@59.951Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x960@59.951Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x960@84.983Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x960@84.983Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x960@99.946Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x960@99.946Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x960@119.998Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x960@119.998Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x960@143.998Hz
+2021-10-03 19:38:00.056 - Thread:   1 ->        1280x960@143.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1280x1024@23.971Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1280x1024@23.971Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1280x1024@59.951Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1280x1024@59.951Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1280x1024@84.983Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1280x1024@84.983Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1280x1024@99.946Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1280x1024@99.946Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1280x1024@119.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1280x1024@119.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1280x1024@143.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1280x1024@143.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1360x768@23.971Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1360x768@23.971Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1360x768@59.951Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1360x768@59.951Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1360x768@84.983Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1360x768@84.983Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1360x768@99.946Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1360x768@99.946Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1360x768@119.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1360x768@119.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1360x768@143.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1360x768@143.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1366x768@23.971Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1366x768@23.971Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1366x768@59.951Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1366x768@59.951Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1366x768@84.983Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1366x768@84.983Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1366x768@99.946Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1366x768@99.946Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1366x768@119.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1366x768@119.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1366x768@143.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1366x768@143.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1440x900@23.971Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1440x900@23.971Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1440x900@59.951Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1440x900@59.951Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1440x900@84.983Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1440x900@84.983Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1440x900@99.946Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1440x900@99.946Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1440x900@119.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1440x900@119.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1440x900@143.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1440x900@143.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1600x900@23.971Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1600x900@23.971Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1600x900@59.951Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1600x900@59.951Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1600x900@84.983Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1600x900@84.983Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1600x900@99.946Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1600x900@99.946Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1600x900@119.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1600x900@119.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1600x900@143.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1600x900@143.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1600x1024@23.971Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1600x1024@23.971Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1600x1024@59.951Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1600x1024@59.951Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1600x1024@84.983Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1600x1024@84.983Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1600x1024@99.946Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1600x1024@99.946Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1600x1024@119.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1600x1024@119.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1600x1024@143.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1600x1024@143.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1600x1200@23.971Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1600x1200@23.971Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1600x1200@59.951Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1600x1200@59.951Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1600x1200@84.983Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1600x1200@84.983Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1600x1200@99.946Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1600x1200@99.946Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1600x1200@119.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1600x1200@119.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1600x1200@143.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1600x1200@143.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1680x1050@23.971Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1680x1050@23.971Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1680x1050@59.951Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1680x1050@59.951Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1680x1050@84.983Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1680x1050@84.983Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1680x1050@99.946Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1680x1050@99.946Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1680x1050@119.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1680x1050@119.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1680x1050@143.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1680x1050@143.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1920x1080@23.971Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1920x1080@23.971Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1920x1080@59.951Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1920x1080@59.951Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1920x1080@84.983Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1920x1080@84.983Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1920x1080@99.946Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1920x1080@99.946Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1920x1080@119.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1920x1080@119.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1920x1080@143.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1920x1080@143.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1920x1200@23.971Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1920x1200@23.971Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1920x1200@59.951Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1920x1200@59.951Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1920x1200@84.983Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1920x1200@84.983Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1920x1200@99.946Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1920x1200@99.946Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1920x1200@119.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1920x1200@119.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1920x1200@143.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1920x1200@143.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1920x1440@23.971Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1920x1440@23.971Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1920x1440@59.951Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1920x1440@59.951Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1920x1440@84.983Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1920x1440@84.983Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1920x1440@99.946Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1920x1440@99.946Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1920x1440@119.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1920x1440@119.998Hz
+2021-10-03 19:38:00.057 - Thread:   1 ->        1920x1440@143.998Hz
+2021-10-03 19:38:00.057 - Thread:   6 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:38:00.057 - Thread:   1 ->        1920x1440@143.998Hz
+2021-10-03 19:38:00.057 - Thread:   6 ->     LineHeight: 37
+2021-10-03 19:38:00.057 - Thread:   1 ->        2560x1440@23.971Hz
+2021-10-03 19:38:00.057 - Thread:   6 ->     Baseline: 30
+2021-10-03 19:38:00.058 - Thread:   1 ->        2560x1440@59.951Hz
+2021-10-03 19:38:00.058 - Thread:   6 ->     KernEnabled: True
+2021-10-03 19:38:00.058 - Thread:   1 ->        2560x1440@84.983Hz
+2021-10-03 19:38:00.058 - Thread:   6 ->  MyFont.Ctor - END
+2021-10-03 19:38:00.058 - Thread:   1 ->        2560x1440@99.946Hz
+2021-10-03 19:38:00.058 - Thread:   7 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:38:00.058 - Thread:   1 ->        2560x1440@119.998Hz
+2021-10-03 19:38:00.058 - Thread:   7 ->     LineHeight: 37
+2021-10-03 19:38:00.058 - Thread:   1 ->        2560x1440@143.998Hz
+2021-10-03 19:38:00.058 - Thread:   7 ->     Baseline: 30
+2021-10-03 19:38:00.058 - Thread:   7 ->     KernEnabled: True
+2021-10-03 19:38:00.058 - Thread:   1 ->     Adapter DeviceName: 'NVIDIA GeForce RTX 2070 SUPER + DISPLAY1', Description: 'dev id: 7812, mem: 8400142336, shared mem: 17142474752, Luid: 68503, rev: 161, subsys id: 1073484888, vendor id: 4318, feature_level 11.1: True'
+2021-10-03 19:38:00.058 - Thread:   7 ->  MyFont.Ctor - END
+2021-10-03 19:38:00.058 - Thread:   1 ->        640x480@60Hz
+2021-10-03 19:38:00.058 - Thread:   1 ->        640x480@75Hz
+2021-10-03 19:38:00.058 - Thread:   1 ->        640x480@59.94Hz
+2021-10-03 19:38:00.058 - Thread:   1 ->        720x480@60Hz
+2021-10-03 19:38:00.058 - Thread:   1 ->        720x480@59.94Hz
+2021-10-03 19:38:00.058 - Thread:   1 ->        720x576@50Hz
+2021-10-03 19:38:00.058 - Thread:   1 ->        800x600@75Hz
+2021-10-03 19:38:00.058 - Thread:   1 ->        800x600@56.25Hz
+2021-10-03 19:38:00.058 - Thread:   1 ->        800x600@60.317Hz
+2021-10-03 19:38:00.058 - Thread:   1 ->        800x600@72.188Hz
+2021-10-03 19:38:00.058 - Thread:   1 ->        1024x768@60.004Hz
+2021-10-03 19:38:00.058 - Thread:   1 ->        1024x768@70.069Hz
+2021-10-03 19:38:00.058 - Thread:   1 ->        1024x768@75.029Hz
+2021-10-03 19:38:00.058 - Thread:   1 ->        1152x864@75Hz
+2021-10-03 19:38:00.058 - Thread:   1 ->        1176x664@60Hz
+2021-10-03 19:38:00.058 - Thread:   1 ->        1176x664@60Hz
+2021-10-03 19:38:00.058 - Thread:   1 ->        1176x664@50Hz
+2021-10-03 19:38:00.058 - Thread:   1 ->        1176x664@50Hz
+2021-10-03 19:38:00.058 - Thread:   1 ->        1176x664@59.94Hz
+2021-10-03 19:38:00.058 - Thread:   1 ->        1176x664@59.94Hz
+2021-10-03 19:38:00.058 - Thread:   1 ->        1280x720@60Hz
+2021-10-03 19:38:00.058 - Thread:   1 ->        1280x720@50Hz
+2021-10-03 19:38:00.058 - Thread:   1 ->        1280x720@59.94Hz
+2021-10-03 19:38:00.058 - Thread:   1 ->        1280x768@59.81Hz
+2021-10-03 19:38:00.058 - Thread:   1 ->        1280x768@59.81Hz
+2021-10-03 19:38:00.058 - Thread:   1 ->        1280x800@59.81Hz
+2021-10-03 19:38:00.058 - Thread:   1 ->        1280x960@60Hz
+2021-10-03 19:38:00.058 - Thread:   1 ->        1280x1024@60.02Hz
+2021-10-03 19:38:00.058 - Thread:   1 ->        1280x1024@75.025Hz
+2021-10-03 19:38:00.058 - Thread:   1 ->        1360x768@59.887Hz
+2021-10-03 19:38:00.058 - Thread:   1 ->        1360x768@59.887Hz
+2021-10-03 19:38:00.059 - Thread:   1 ->        1366x768@59.887Hz
+2021-10-03 19:38:00.059 - Thread:   1 ->        1366x768@59.887Hz
+2021-10-03 19:38:00.059 - Thread:   1 ->        1440x900@59.887Hz
+2021-10-03 19:38:00.059 - Thread:   1 ->        1600x900@59.954Hz
+2021-10-03 19:38:00.059 - Thread:   1 ->        1600x900@59.954Hz
+2021-10-03 19:38:00.059 - Thread:   1 ->        1600x1024@59.954Hz
+2021-10-03 19:38:00.059 - Thread:   1 ->        1600x1024@59.954Hz
+2021-10-03 19:38:00.059 - Thread:   1 ->        1680x1050@59.954Hz
+2021-10-03 19:38:00.059 - Thread:   1 ->        1920x1080@60Hz
+2021-10-03 19:38:00.059 - Thread:   1 ->        1920x1080@50Hz
+2021-10-03 19:38:00.059 - Thread:   1 ->        1920x1080@59.94006Hz
+2021-10-03 19:38:00.061 - Thread:  11 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\monospace\FontDataPA.xml
+2021-10-03 19:38:00.061 - Thread:  11 ->     LineHeight: 37
+2021-10-03 19:38:00.061 - Thread:  11 ->     Baseline: 30
+2021-10-03 19:38:00.061 - Thread:  11 ->     KernEnabled: True
+2021-10-03 19:38:00.061 - Thread:  11 ->  MyFont.Ctor - END
+2021-10-03 19:38:01.533 - Thread:  16 ->  MyRenderSettings1 = {
+2021-10-03 19:38:01.534 - Thread:  16 ->     AntialiasingMode = FXAA
+2021-10-03 19:38:01.534 - Thread:  16 ->     ShadowQuality = MEDIUM
+2021-10-03 19:38:01.534 - Thread:  16 ->     ShadowGPUQuality = HIGH
+2021-10-03 19:38:01.534 - Thread:  16 ->     TextureQuality = HIGH
+2021-10-03 19:38:01.534 - Thread:  16 ->     VoxelTextureQuality = HIGH
+2021-10-03 19:38:01.534 - Thread:  16 ->     AnisotropicFiltering = ANISO_16
+2021-10-03 19:38:01.534 - Thread:  16 ->     HqDepth = True
+2021-10-03 19:38:01.534 - Thread:  16 ->     GrassDrawDistance = 4998
+2021-10-03 19:38:01.534 - Thread:  16 ->     GrassDensityFactor = 1.961523
+2021-10-03 19:38:01.534 - Thread:  16 ->     AmbientOcclusionEnabled = True
+2021-10-03 19:38:01.534 - Thread:  16 ->     ModelQuality = HIGH
+2021-10-03 19:38:01.534 - Thread:  16 ->     VoxelQuality = HIGH
+2021-10-03 19:38:01.534 - Thread:  16 ->     VoxelShaderQuality = HIGH
+2021-10-03 19:38:01.534 - Thread:  16 ->     AlphaMaskedShaderQuality = HIGH
+2021-10-03 19:38:01.534 - Thread:  16 ->     AtmosphereShaderQuality = HIGH
+2021-10-03 19:38:01.534 - Thread:  16 ->     DistanceFade = 1218
+2021-10-03 19:38:01.534 - Thread:  16 ->     ParticleQuality = HIGH
+2021-10-03 19:38:01.534 - Thread:  16 ->  }
+2021-10-03 19:38:25.094 - Thread:   7 ->  Compressed texture with MipLevels <= 1: textures\gui\controls\news_background_right_top.dds
+2021-10-03 19:38:25.094 - Thread:   7 ->  Compressed texture with MipLevels <= 1: textures\gui\controls\news_background_right_bottom.dds
+2021-10-03 19:38:25.094 - Thread:   7 ->  Compressed texture with MipLevels <= 1: textures\gui\controls\news_background_right_center.dds
+2021-10-03 19:40:09.000 - Thread:   7 ->  Compressed texture with MipLevels <= 1: textures\gui\screens\screen_background_fade.dds
+2021-10-03 19:40:47.784 - Thread:   6 ->  Compressed texture with MipLevels <= 1: textures\gui\screens\loading_background_012.dds
+2021-10-03 19:41:25.890 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:25.891 - Thread:   1 ->     Font filename: Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:25.893 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:25.893 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:25.893 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:25.893 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:25.893 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:25.893 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:25.893 - Thread:   1 ->     Font filename: Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:25.895 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:25.895 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:25.895 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:25.895 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:25.895 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:25.895 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:25.895 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:41:25.897 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:41:25.897 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:25.897 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:25.897 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:25.897 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:25.897 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:25.898 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:41:25.899 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:41:25.899 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:25.899 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:25.899 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:25.899 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:25.899 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:25.900 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:41:25.904 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:41:25.904 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:25.904 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:25.904 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:25.904 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:25.904 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:25.905 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:41:25.907 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:41:25.907 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:25.907 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:25.907 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:25.907 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:25.907 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:25.907 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:41:25.909 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:41:25.909 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:25.909 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:25.909 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:25.909 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:25.909 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:25.909 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:41:25.911 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:41:25.911 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:25.911 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:25.911 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:25.911 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:25.911 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:25.911 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:41:25.913 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:41:25.913 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:25.913 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:25.913 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:25.913 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:25.913 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:25.913 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:41:25.915 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:41:25.915 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:25.915 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:25.915 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:25.915 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:25.915 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:25.915 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:41:25.917 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:41:25.917 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:25.917 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:25.917 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:25.917 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:25.917 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:25.918 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:41:25.923 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:41:25.923 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:25.923 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:25.923 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:25.923 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:25.923 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:25.924 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:41:25.926 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:41:25.926 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:25.926 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:25.926 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:25.926 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:25.926 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:25.926 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:41:25.928 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:41:25.928 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:25.928 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:25.928 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:25.928 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:25.928 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:25.928 - Thread:   1 ->     Font filename: Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:25.930 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:25.930 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:25.930 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:25.930 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:25.930 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:25.930 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:25.930 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:41:25.932 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:41:25.932 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:25.932 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:25.932 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:25.932 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:25.932 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:25.932 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:41:25.934 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:41:25.934 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:25.934 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:25.934 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:25.934 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:25.934 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:25.935 - Thread:   1 ->     Font filename: Fonts\monospace\FontDataPA.xml
+2021-10-03 19:41:25.945 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\monospace\FontDataPA.xml
+2021-10-03 19:41:25.945 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:25.945 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:25.945 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:25.945 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:25.954 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:25.954 - Thread:   1 ->     Font filename: Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:25.956 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:25.956 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:25.956 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:25.956 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:25.956 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:25.957 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:25.957 - Thread:   1 ->     Font filename: Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:25.959 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:25.959 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:25.959 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:25.959 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:25.959 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:25.959 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:25.959 - Thread:   1 ->     Font filename: Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:25.961 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:25.961 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:25.961 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:25.961 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:25.961 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:25.961 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:25.961 - Thread:   1 ->     Font filename: Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:25.963 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:25.963 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:25.963 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:25.963 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:25.963 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:25.963 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:25.963 - Thread:   1 ->     Font filename: Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:25.965 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:25.965 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:25.965 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:25.965 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:25.965 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:30.342 - Thread:  25 ->  Texture low://..\..\..\workshop\content\244850\2558149005\textures\voxels\deuterium_4_cm.dds with size 32x32 can't fit to file array with size 32x32
+2021-10-03 19:41:30.351 - Thread:  25 ->  Texture low://..\..\..\workshop\content\244850\2558149005\textures\voxels\deuterium_5_cm.dds with size 32x32 can't fit to file array with size 32x32
+2021-10-03 19:41:30.367 - Thread:  25 ->  Texture EMPTY with size 1x1 can't fit to file array with size 32x32
+2021-10-03 19:41:30.368 - Thread:  25 ->  Texture low://..\..\..\workshop\content\244850\2558149005\textures\voxels\deuterium_add.dds with size 32x32 can't fit to file array with size 32x32
+2021-10-03 19:41:30.368 - Thread:  25 ->  Texture low://..\..\..\workshop\content\244850\1608841667\textures\voxels\carbon_01_foraxisxz_add.dds with size 32x32 can't fit to file array with size 32x32
+2021-10-03 19:41:30.368 - Thread:  25 ->  Texture low://..\..\..\workshop\content\244850\1608841667\textures\voxels\potassium_01_foraxisxz_add.dds with size 32x32 can't fit to file array with size 32x32
+2021-10-03 19:41:30.368 - Thread:  25 ->  Texture low://..\..\..\workshop\content\244850\1608841667\textures\voxels\phosphorus_01_foraxisxz_add.dds with size 32x32 can't fit to file array with size 32x32
+2021-10-03 19:41:30.991 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:30.992 - Thread:   1 ->     Font filename: Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:30.993 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:30.993 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:30.993 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:30.993 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:30.993 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:30.993 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:30.994 - Thread:   1 ->     Font filename: Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:30.996 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:30.996 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:30.996 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:30.996 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:30.996 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:30.996 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:30.996 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:41:30.998 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:41:30.998 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:30.998 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:30.998 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:30.998 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:30.998 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:30.998 - Thread:   1 ->     Font filename: Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:31.004 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:31.004 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:31.004 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:31.004 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:31.004 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:31.004 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:31.005 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:41:31.007 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:41:31.007 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:31.007 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:31.007 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:31.007 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:31.007 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:31.007 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:41:31.009 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:41:31.009 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:31.009 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:31.009 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:31.009 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:31.009 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:31.009 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:41:31.011 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:41:31.011 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:31.011 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:31.011 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:31.011 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:31.011 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:31.011 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:41:31.013 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:41:31.013 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:31.013 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:31.013 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:31.013 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:31.013 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:31.014 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:41:31.019 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:41:31.019 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:31.019 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:31.019 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:31.019 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:31.019 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:31.020 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:41:31.022 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:41:31.022 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:31.022 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:31.022 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:31.022 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:31.022 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:31.022 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:41:31.024 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:41:31.024 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:31.024 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:31.024 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:31.024 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:31.024 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:31.024 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:41:31.026 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:41:31.026 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:31.026 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:31.026 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:31.026 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:31.026 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:31.026 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:41:31.028 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:41:31.028 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:31.028 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:31.028 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:31.028 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:31.028 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:31.028 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:41:31.040 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:41:31.040 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:31.040 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:31.040 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:31.040 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:31.040 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:31.040 - Thread:   1 ->     Font filename: Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:31.042 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:31.042 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:31.042 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:31.042 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:31.042 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:31.042 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:31.043 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:41:31.044 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:41:31.044 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:31.044 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:31.044 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:31.044 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:31.044 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:31.045 - Thread:   1 ->     Font filename: Fonts\white\FontDataPA.xml
+2021-10-03 19:41:31.047 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white\FontDataPA.xml
+2021-10-03 19:41:31.047 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:31.047 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:31.047 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:31.047 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:31.047 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:31.047 - Thread:   1 ->     Font filename: Fonts\monospace\FontDataPA.xml
+2021-10-03 19:41:31.056 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\monospace\FontDataPA.xml
+2021-10-03 19:41:31.057 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:31.057 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:31.057 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:31.057 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:31.057 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:31.057 - Thread:   1 ->     Font filename: Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:31.059 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:31.059 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:31.059 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:31.059 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:31.059 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:31.059 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:31.059 - Thread:   1 ->     Font filename: Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:31.061 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:31.061 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:31.061 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:31.061 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:31.061 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:31.061 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:31.061 - Thread:   1 ->     Font filename: Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:31.063 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:31.063 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:31.063 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:31.063 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:31.063 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:31.063 - Thread:   1 ->  MyFont.Ctor - START
+2021-10-03 19:41:31.064 - Thread:   1 ->     Font filename: Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:31.065 - Thread:   1 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:31.065 - Thread:   1 ->     LineHeight: 37
+2021-10-03 19:41:31.065 - Thread:   1 ->     Baseline: 30
+2021-10-03 19:41:31.065 - Thread:   1 ->     KernEnabled: True
+2021-10-03 19:41:31.065 - Thread:   1 ->  MyFont.Ctor - END
+2021-10-03 19:41:55.902 - Thread:   7 ->  MyFont.Ctor - START
+2021-10-03 19:41:55.902 - Thread:  11 ->  MyFont.Ctor - START
+2021-10-03 19:41:55.902 - Thread:  10 ->  MyFont.Ctor - START
+2021-10-03 19:41:55.902 - Thread:   8 ->  MyFont.Ctor - START
+2021-10-03 19:41:55.904 - Thread:   9 ->  MyFont.Ctor - START
+2021-10-03 19:41:55.904 - Thread:   7 ->     Font filename: Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:55.904 - Thread:  11 ->     Font filename: Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:55.904 - Thread:  10 ->     Font filename: Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:55.904 - Thread:   8 ->     Font filename: Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:55.956 - Thread:   9 ->     Font filename: Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:55.967 - Thread:   8 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:55.967 - Thread:  11 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:55.967 - Thread:   8 ->     LineHeight: 37
+2021-10-03 19:41:55.967 - Thread:   7 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:55.967 - Thread:  10 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:55.967 - Thread:  11 ->     LineHeight: 37
+2021-10-03 19:41:55.967 - Thread:   8 ->     Baseline: 30
+2021-10-03 19:41:55.967 - Thread:   7 ->     LineHeight: 37
+2021-10-03 19:41:55.967 - Thread:  10 ->     LineHeight: 37
+2021-10-03 19:41:55.967 - Thread:  11 ->     Baseline: 30
+2021-10-03 19:41:55.967 - Thread:   8 ->     KernEnabled: True
+2021-10-03 19:41:55.967 - Thread:   7 ->     Baseline: 30
+2021-10-03 19:41:55.967 - Thread:  10 ->     Baseline: 30
+2021-10-03 19:41:55.967 - Thread:   9 ->     FontFilePath: G:\Steam\steamapps\common\SpaceEngineers\Content\Fonts\white_shadow\FontDataPA.xml
+2021-10-03 19:41:55.967 - Thread:  11 ->     KernEnabled: True
+2021-10-03 19:41:55.967 - Thread:   7 ->     KernEnabled: True
+2021-10-03 19:41:55.967 - Thread:  10 ->     KernEnabled: True
+2021-10-03 19:41:55.967 - Thread:   9 ->     LineHeight: 37
+2021-10-03 19:41:55.967 - Thread:   9 ->     Baseline: 30
+2021-10-03 19:41:55.967 - Thread:   8 ->  MyFont.Ctor - END
+2021-10-03 19:41:55.967 - Thread:   9 ->     KernEnabled: True
+2021-10-03 19:41:55.967 - Thread:  11 ->  MyFont.Ctor - END
+2021-10-03 19:41:55.967 - Thread:   7 ->  MyFont.Ctor - END
+2021-10-03 19:41:55.967 - Thread:  10 ->  MyFont.Ctor - END
+2021-10-03 19:41:55.967 - Thread:   9 ->  MyFont.Ctor - END
+2021-10-03 19:41:56.032 - Thread:  19 ->  Compressed texture with MipLevels <= 1: textures\models\environment\sky\landsky_texture_cm.dds
+2021-10-03 19:41:56.080 - Thread:  21 ->  Compressed texture with MipLevels <= 1: textures\models\environment\sky\earthfarclouds_cm.dds
+2021-10-03 19:41:56.080 - Thread:  22 ->  Compressed texture with MipLevels <= 1: textures\models\environment\sky\aliensky_cm.dds
+2021-10-03 19:41:56.081 - Thread:  22 ->  Compressed texture with MipLevels <= 1: textures\models\environment\sky\martiansky_cm.dds
+2021-10-03 19:41:56.107 - Thread:  18 ->  Compressed texture with MipLevels <= 1: textures\models\environment\sky\martiansky02_cm.dds
+2021-10-03 19:41:59.981 - Thread:  20 ->  Warning: Missing textures for part(s) PaintedMetal_Tier5.001 (ColorMetal NormalGlossFilepath ExtensionFilepath AlphamaskFilepath) PaintedMetalScratched_Yellow.001 (ColorMetal NormalGlossFilepath ExtensionFilepath AlphamaskFilepath) Metal_Dull.002 (ColorMetal NormalGlossFilepath ExtensionFilepath AlphamaskFilepath) Conveyor.002 (ColorMetal NormalGlossFilepath ExtensionFilepath AlphamaskFilepath)  in model c:\users\mookie\appdata\roaming\spaceengineersdedicated\content\244850\691529112\Models\Cubes\large\LargeCargoContainerT4_LOD3.mwm
+2021-10-03 19:42:00.075 - Thread:  22 ->  Warning: Missing textures for part(s) SE_Blocks Slot #91 (ColorMetal NormalGlossFilepath ExtensionFilepath AlphamaskFilepath) GenericGlass (ColorMetal NormalGlossFilepath ExtensionFilepath AlphamaskFilepath)  in model c:\users\mookie\appdata\roaming\spaceengineersdedicated\content\244850\691529112\models\cubes\large\heavyindustry\advancedrefineryt4.mwm
+2021-10-03 19:42:00.388 - Thread:  22 ->  Warning: Missing textures for part(s) SE_Blocks Slot #91 (ColorMetal NormalGlossFilepath ExtensionFilepath AlphamaskFilepath) GenericGlass (ColorMetal NormalGlossFilepath ExtensionFilepath AlphamaskFilepath)  in model c:\users\mookie\appdata\roaming\spaceengineersdedicated\content\244850\691529112\Models\Cubes\large\HeavyIndustry\AdvancedRefineryT4_LOD1.mwm
+2021-10-03 19:42:00.611 - Thread:  22 ->  Warning: Missing textures for part(s) SE_Blocks Slot #91 (ColorMetal NormalGlossFilepath ExtensionFilepath AlphamaskFilepath) GenericGlass (ColorMetal NormalGlossFilepath ExtensionFilepath AlphamaskFilepath)  in model c:\users\mookie\appdata\roaming\spaceengineersdedicated\content\244850\691529112\Models\Cubes\large\HeavyIndustry\AdvancedRefineryT4_LOD2.mwm
+2021-10-03 19:42:01.630 - Thread:  19 ->  Warning: Missing textures for part(s) PaintedMetal_Tier5.001 (ColorMetal NormalGlossFilepath ExtensionFilepath AlphamaskFilepath) PaintedMetalScratched_Yellow.001 (ColorMetal NormalGlossFilepath ExtensionFilepath AlphamaskFilepath) Metal_Dull.002 (ColorMetal NormalGlossFilepath ExtensionFilepath AlphamaskFilepath) Conveyor.002 (ColorMetal NormalGlossFilepath ExtensionFilepath AlphamaskFilepath)  in model c:\users\mookie\appdata\roaming\spaceengineersdedicated\content\244850\691529112\Models\Cubes\large\LargeCargoContainerT3_LOD3.mwm
+2021-10-03 19:42:01.636 - Thread:  25 ->  Texture EMPTY with size 1x1 can't fit to file array with size 32x32
+2021-10-03 19:42:02.268 - Thread:  25 ->  Texture EMPTY with size 1x1 can't fit to file array with size 32x32
+2021-10-03 19:42:02.408 - Thread:  25 ->  Texture low://..\..\..\workshop\content\244850\2558149005\textures\voxels\deuterium_4_cm.dds with size 32x32 can't fit to file array with size 32x32
+2021-10-03 19:42:02.414 - Thread:  25 ->  Texture EMPTY with size 1x1 can't fit to file array with size 32x32
+2021-10-03 19:42:02.415 - Thread:  25 ->  Texture low://..\..\..\workshop\content\244850\2558149005\textures\voxels\deuterium_add.dds with size 32x32 can't fit to file array with size 32x32
+2021-10-03 19:42:02.475 - Thread:  25 ->  Texture low://..\..\..\workshop\content\244850\2558149005\textures\voxels\deuterium_4_cm.dds with size 32x32 can't fit to file array with size 32x32
+2021-10-03 19:42:02.480 - Thread:  25 ->  Texture EMPTY with size 1x1 can't fit to file array with size 32x32
+2021-10-03 19:42:02.481 - Thread:  25 ->  Texture low://..\..\..\workshop\content\244850\2558149005\textures\voxels\deuterium_add.dds with size 32x32 can't fit to file array with size 32x32
+2021-10-03 19:42:02.494 - Thread:  25 ->  Texture low://..\..\..\workshop\content\244850\2558149005\textures\voxels\deuterium_4_cm.dds with size 32x32 can't fit to file array with size 32x32
+2021-10-03 19:42:02.701 - Thread:  25 ->  Texture low://..\..\..\workshop\content\244850\2558149005\textures\voxels\deuterium_4_cm.dds with size 32x32 can't fit to file array with size 32x32
+2021-10-03 19:42:02.710 - Thread:  25 ->  Texture EMPTY with size 1x1 can't fit to file array with size 32x32
+2021-10-03 19:42:02.711 - Thread:  25 ->  Texture low://..\..\..\workshop\content\244850\2558149005\textures\voxels\deuterium_add.dds with size 32x32 can't fit to file array with size 32x32
+2021-10-03 19:42:02.711 - Thread:  25 ->  Texture low://..\..\..\workshop\content\244850\1608841667\textures\voxels\carbon_01_foraxisxz_add.dds with size 32x32 can't fit to file array with size 32x32
+2021-10-03 19:42:02.770 - Thread:   6 ->  Missing lod file: s\cp24\Desktop\MWMBuilder\MetalSquarePlate_LOD1
+2021-10-03 19:42:02.955 - Thread:  18 ->  Warning: Missing textures for part(s) PaintedMetal_Default (ColorMetal NormalGlossFilepath ExtensionFilepath AlphamaskFilepath)  in model g:\steam\steamapps\common\spaceengineers\content\Models\Cubes\large\PistonSubpart1_LOD3.mwm
+2021-10-03 19:42:03.315 - Thread:  22 ->  Warning: Missing textures for part(s) PaintedMetal_Default (ColorMetal NormalGlossFilepath ExtensionFilepath AlphamaskFilepath) CockpitFighterGlassInside (ColorMetal NormalGlossFilepath ExtensionFilepath AlphamaskFilepath)  in model g:\steam\steamapps\common\spaceengineers\content\models\cubes\small\cockpitfighterinterior.mwm
+2021-10-03 19:42:03.323 - Thread:  18 ->  Warning: Missing textures for part(s) PaintedMetal_Default (ColorMetal NormalGlossFilepath ExtensionFilepath AlphamaskFilepath) CockpitFighterGlassOutside (ColorMetal NormalGlossFilepath ExtensionFilepath AlphamaskFilepath)  in model g:\steam\steamapps\common\spaceengineers\content\Models\Cubes\small\CockpitFighter_LOD0.mwm
+2021-10-03 19:42:03.384 - Thread:  18 ->  Warning: Missing textures for part(s) PaintedMetal_Default (ColorMetal NormalGlossFilepath ExtensionFilepath AlphamaskFilepath) CockpitFighterGlassOutside (ColorMetal NormalGlossFilepath ExtensionFilepath AlphamaskFilepath)  in model g:\steam\steamapps\common\spaceengineers\content\Models\Cubes\small\CockpitFighter_LOD1.mwm
